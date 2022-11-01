@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/links-task/static/css/main.026bff49.css",
+    "main.js": "/links-task/static/js/main.e92cd482.js",
+    "static/js/787.674ee18b.chunk.js": "/links-task/static/js/787.674ee18b.chunk.js",
+    "static/media/primeicons.svg": "/links-task/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/links-task/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/links-task/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/links-task/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/links-task/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/links-task/index.html",
+    "main.026bff49.css.map": "/links-task/static/css/main.026bff49.css.map",
+    "main.e92cd482.js.map": "/links-task/static/js/main.e92cd482.js.map",
+    "787.674ee18b.chunk.js.map": "/links-task/static/js/787.674ee18b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026bff49.css",
+    "static/js/main.e92cd482.js"
+  ]
+}
