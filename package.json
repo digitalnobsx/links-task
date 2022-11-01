@@ -15,7 +15,7 @@
     "react-transition-group": "^4.4.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://digitalnobsx.github.io/stage-1-task",
+  "homepage": "http://digitalnobsx.github.io/links-task",
   
   "scripts": {
     "predeploy" : "npm run build",

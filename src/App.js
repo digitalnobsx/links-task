@@ -55,7 +55,7 @@ function App () {
   return (
     <div className="m-4">
       <div className="flex flex-column justify-content-center align-items-center">
-        <Avatar image={data.image} size="xlarge" shape="circle" className="p-overlay-badge">
+        <Avatar id="profile__img" image={data.image} size="xlarge" shape="circle" className="p-overlay-badge">
         </Avatar>
         <h1 className="m-2">{data.name}</h1>
       </div>
